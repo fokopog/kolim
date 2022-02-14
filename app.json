@@ -1,0 +1,14 @@
+﻿{
+    "name": "himi",
+    "description": "oops!",
+    "logo":"",
+    "keywords": ["aha"],
+    "env": {
+        "UUID": {
+            "description": "UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/fokopog/kolim",
+    "stack": "container"
+}
